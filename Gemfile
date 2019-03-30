@@ -66,7 +66,3 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
-gem "sweetalert2", "~> 7.25"
-
-gem "alert_message", "~> 1.1"
