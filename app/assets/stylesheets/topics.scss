@@ -1,0 +1,16 @@
+// Place all the styles related to the topics controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+html, body {
+  background: linear-gradient(red, orange) cover center;
+  color: #64D7E0;
+
+  a {
+    color: #bada55;
+
+    &:visited {
+      color: purple;
+    }
+  }
+}
